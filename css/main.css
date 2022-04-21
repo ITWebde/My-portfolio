@@ -1404,6 +1404,12 @@ html {
 }
 
 @media only screen and (max-width: 475px) {
+  .footer__main {
+    width: 100%;
+  }
+  .footer__main--name {
+    width: 100%;
+  }
   .footer__main--name .name {
     margin-left: -10%;
   }
