@@ -21,7 +21,7 @@ window.onscroll = function() {
 // Swiper 
 var swiper = new Swiper(".teams", {
     slidesPerView: 3,
-    spaceBetween: 40,
+    spaceBetween: 10,
     freeMode: true,
     pagination: {
         el: ".swiper-pagination",

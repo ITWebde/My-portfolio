@@ -76,5 +76,25 @@
         padding: 5px 10px;
       }
     }
+
+    &__main {
+
+      &--slide {
+
+        .card {
+          img {
+            width: 50px;
+          }
+          h3 {
+            font-size: 20px;
+          }
+          .link-icon {
+            a {
+              font-size: 1rem;
+            }
+          }
+        }
+      }
+    }
   }
 }

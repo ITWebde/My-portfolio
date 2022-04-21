@@ -762,6 +762,7 @@ html {
   .about__main--text p {
     width: 295px;
     font-size: 12px;
+    margin-left: 11%;
   }
   .about__main button {
     font-size: 12px;
@@ -954,7 +955,7 @@ html {
   }
   .skills .wrapper .item {
     width: 300px;
-    margin-left: -20px;
+    margin-left: 35px;
   }
 }
 
@@ -1028,6 +1029,15 @@ html {
   .teams .title span {
     font-size: 1.5rem;
     padding: 5px 10px;
+  }
+  .teams__main--slide .card img {
+    width: 50px;
+  }
+  .teams__main--slide .card h3 {
+    font-size: 20px;
+  }
+  .teams__main--slide .card .link-icon a {
+    font-size: 1rem;
   }
 }
 
@@ -1395,7 +1405,7 @@ html {
 
 @media only screen and (max-width: 475px) {
   .footer__main--name .name {
-    margin-left: -30%;
+    margin-left: -10%;
   }
   .footer__main--name .name img {
     width: 40px;
@@ -1405,7 +1415,7 @@ html {
     line-height: 20px;
   }
   .footer__main .icon-link {
-    margin-left: -25%;
+    margin-left: -10%;
   }
   .footer__main .about--link .item-link {
     display: block;
