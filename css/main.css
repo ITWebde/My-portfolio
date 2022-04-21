@@ -470,9 +470,9 @@ html {
   }
 }
 
-@media only screen and (max-width: 365px) {
+@media only screen and (max-width: 475px) {
   .container {
-    max-width: 375px;
+    max-width: 475px;
     padding: 0 10px;
   }
 }
@@ -592,7 +592,7 @@ html {
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
   .navbar__main .logo img {
     width: 40px;
   }
@@ -646,7 +646,7 @@ html {
   color: #c7082e;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
   .home__main {
     width: 25%;
     margin-left: 20px;
@@ -745,7 +745,7 @@ html {
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
   .about {
     margin-top: 100px;
   }
@@ -859,7 +859,7 @@ html {
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
   .service__main .title span {
     font-size: 1.5rem;
     padding: 5px 10px;
@@ -944,7 +944,7 @@ html {
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
   .skills_title .title span {
     font-size: 1.5rem;
     padding: 5px 10px;
@@ -1024,7 +1024,7 @@ html {
   margin-left: 20px;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
   .teams .title span {
     font-size: 1.5rem;
     padding: 5px 10px;
@@ -1174,7 +1174,7 @@ html {
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
   .contact .title span {
     font-size: 1.5rem;
     padding: 5px 10px;
@@ -1393,7 +1393,7 @@ html {
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
   .footer__main--name .name {
     margin-left: -30%;
   }
