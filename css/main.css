@@ -752,17 +752,13 @@ html {
   .about__main img {
     width: 300px;
   }
-  .about__main--text {
-    margin-left: 8%;
-  }
   .about__main--text .title span {
     font-size: 1.5rem;
     padding: 5px 10px;
   }
   .about__main--text p {
-    width: 295px;
+    width: 370px;
     font-size: 12px;
-    margin-left: 11%;
   }
   .about__main button {
     font-size: 12px;
@@ -955,7 +951,6 @@ html {
   }
   .skills .wrapper .item {
     width: 300px;
-    margin-left: 35px;
   }
 }
 
