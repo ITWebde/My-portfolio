@@ -950,6 +950,7 @@ html {
   }
   .skills .wrapper .item {
     width: 300px;
+    margin-left: -6%;
   }
 }
 
