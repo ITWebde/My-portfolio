@@ -945,9 +945,6 @@ html {
     font-size: 1.5rem;
     padding: 5px 10px;
   }
-  .skills .wrapper {
-    padding: 0;
-  }
   .skills .wrapper .item {
     width: 300px;
     margin-left: -6%;
