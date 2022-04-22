@@ -757,13 +757,12 @@ html {
     padding: 5px 10px;
   }
   .about__main--text p {
-    width: 370px;
+    width: 300px;
     font-size: 12px;
   }
   .about__main button {
     font-size: 12px;
     padding: 10px 20px;
-    margin-left: -6%;
   }
 }
 
@@ -852,7 +851,7 @@ html {
         flex-wrap: wrap;
   }
   .service__main--card .wrapper {
-    margin: 10px;
+    margin: 10px 0px;
   }
 }
 
